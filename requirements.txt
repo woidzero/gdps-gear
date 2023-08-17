@@ -1,0 +1,3 @@
+git+git://github.com/Pycord-Development/pycord
+aiohttp
+python-dotenv
